@@ -24,7 +24,7 @@ for i in range (n):
         
     originalLists.append(listOfRandomNumbers)
         #append is a function in python, which is uesd to append sub lists in an empty list
-originalLists= [[11, 9, 17, 24, 5, 21, 6, 31, 36, 7, 21, 11, 1, 27], [13, 4, 25, 18, 24, 30, 5, 1, 11, 10, 27], [23, 35, 37, 21, 33, 6, 5, 17, 5, 4, 36, 20, 34, 21, 6, 11]]
+#originalLists= [[11, 9, 17, 24, 5, 21, 6, 31, 36, 7, 21, 11, 1, 27], [13, 4, 25, 18, 24, 30, 5, 1, 11, 10, 27], [23, 35, 37, 21, 33, 6, 5, 17, 5, 4, 36, 20, 34, 21, 6, 11]]
 print("Original Lists: ") # a list of lists are generated
 print(originalLists)
 
